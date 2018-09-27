@@ -1,0 +1,2 @@
+# bender
+AI for Discord
