@@ -1,2 +1,2 @@
 # bender
-AI for Discord
+Simple AI for Discord using CleverBot API
